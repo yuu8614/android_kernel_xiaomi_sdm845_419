@@ -47,8 +47,8 @@
 		qcom,mdss-dsi-dma-trigger = "trigger_sw";
 		qcom,mdss-dsi-mdp-trigger = "none";
 		qcom,mdss-dsi-reset-sequence = <0 2>, <1 10>;
-		qcom,mdss-pan-physical-width-dimension = <68>;
-		qcom,mdss-pan-physical-height-dimension = <147>;
+		qcom,mdss-pan-physical-width-dimension = <680>;
+		qcom,mdss-pan-physical-height-dimension = <1470 >;
 		qcom,mdss-dsi-tx-eot-append;
 
 		qcom,mdss-dsi-panel-hdr-enabled;
